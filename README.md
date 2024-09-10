@@ -1,0 +1,3 @@
+Develop a simple image encryption tool using pixel manipulation. 
+We can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. 
+It allow users to encrypt and decrypt images.
